@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Rf/+L3Ok2XRJQcD2RFDj5wtz8Mxkp8LjiV+2ups1JYfZ8ftL7sqIvUtVim4kAqTFKwSW0E1490/E/7dit57dA==",
+  "dgSpecHash": "oZCda+8qv6U0iPsnY/0utxLLi/AQ7KJudM/uCNgN64VfrPObyR/1oeCvzWJjglb9s0zX7qx5OPlf7bNWzI8m/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vinicius Tenomaro\\Documents\\Projetos\\Reply\\planets-backend\\src\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Projetos\\planets\\planets-backend\\src\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vinicius Tenomaro\\.nuget\\packages\\aspnetcore.healthchecks.sqlserver\\3.1.1\\aspnetcore.healthchecks.sqlserver.3.1.1.nupkg.sha512",
     "C:\\Users\\Vinicius Tenomaro\\.nuget\\packages\\aspnetcore.healthchecks.ui\\3.1.1\\aspnetcore.healthchecks.ui.3.1.1.nupkg.sha512",
@@ -178,7 +178,8 @@
     "C:\\Users\\Vinicius Tenomaro\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Vinicius Tenomaro\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Vinicius Tenomaro\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\Vinicius Tenomaro\\.nuget\\packages\\yamldotnet\\6.0.0\\yamldotnet.6.0.0.nupkg.sha512"
+    "C:\\Users\\Vinicius Tenomaro\\.nuget\\packages\\yamldotnet\\6.0.0\\yamldotnet.6.0.0.nupkg.sha512",
+    "C:\\Users\\Vinicius Tenomaro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
   ],
   "logs": []
 }

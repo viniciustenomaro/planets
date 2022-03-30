@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Vinicius Tenomaro\\Documents\\Projetos\\Reply\\planets-backend\\src\\WebAPI\\WebAPI.csproj",
+  "FilePath": "c:\\Projetos\\planets\\planets-backend\\src\\WebAPI\\WebAPI.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,18 +14402,18 @@
   "RootNamespace": "TesteApi.WebAPI",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Vinicius Tenomaro\\Documents\\Projetos\\Reply\\planets-backend\\src\\WebAPI\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Projetos\\planets\\planets-backend\\src\\WebAPI\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Vinicius Tenomaro\\Documents\\Projetos\\Reply\\planets-backend\\src\\WebAPI\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Projetos\\planets\\planets-backend\\src\\WebAPI\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Vinicius Tenomaro\\Documents\\Projetos\\Reply\\planets-backend\\src\\WebAPI\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Projetos\\planets\\planets-backend\\src\\WebAPI\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],

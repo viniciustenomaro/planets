@@ -47,3 +47,20 @@ C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\Services
 C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
 C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\Services\obj\Debug\netcoreapp3.1\TesteApi.Services.dll
 C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\Services\obj\Debug\netcoreapp3.1\TesteApi.Services.pdb
+C:\Projetos\planets\planets-backend\src\Services\bin\Debug\netcoreapp3.1\TesteApi.Services.deps.json
+C:\Projetos\planets\planets-backend\src\Services\bin\Debug\netcoreapp3.1\TesteApi.Services.dll
+C:\Projetos\planets\planets-backend\src\Services\bin\Debug\netcoreapp3.1\TesteApi.Services.pdb
+C:\Projetos\planets\planets-backend\src\Services\bin\Debug\netcoreapp3.1\TesteApi.Common.dll
+C:\Projetos\planets\planets-backend\src\Services\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.dll
+C:\Projetos\planets\planets-backend\src\Services\bin\Debug\netcoreapp3.1\TesteApi.Model.dll
+C:\Projetos\planets\planets-backend\src\Services\bin\Debug\netcoreapp3.1\TesteApi.Common.pdb
+C:\Projetos\planets\planets-backend\src\Services\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.pdb
+C:\Projetos\planets\planets-backend\src\Services\bin\Debug\netcoreapp3.1\TesteApi.Model.pdb
+C:\Projetos\planets\planets-backend\src\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+C:\Projetos\planets\planets-backend\src\Services\obj\Debug\netcoreapp3.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\planets\planets-backend\src\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Projetos\planets\planets-backend\src\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Projetos\planets\planets-backend\src\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Projetos\planets\planets-backend\src\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Projetos\planets\planets-backend\src\Services\obj\Debug\netcoreapp3.1\TesteApi.Services.dll
+C:\Projetos\planets\planets-backend\src\Services\obj\Debug\netcoreapp3.1\TesteApi.Services.pdb

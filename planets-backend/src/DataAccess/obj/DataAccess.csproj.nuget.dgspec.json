@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vinicius Tenomaro\\Documents\\Projetos\\Reply\\planets-backend\\src\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Projetos\\planets\\planets-backend\\src\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vinicius Tenomaro\\Documents\\Projetos\\Reply\\planets-backend\\src\\DataAccess\\DataAccess.csproj": {
+    "C:\\Projetos\\planets\\planets-backend\\src\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vinicius Tenomaro\\Documents\\Projetos\\Reply\\planets-backend\\src\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Projetos\\planets\\planets-backend\\src\\DataAccess\\DataAccess.csproj",
         "projectName": "TesteApi.DataAccess",
-        "projectPath": "C:\\Users\\Vinicius Tenomaro\\Documents\\Projetos\\Reply\\planets-backend\\src\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Projetos\\planets\\planets-backend\\src\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Vinicius Tenomaro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vinicius Tenomaro\\Documents\\Projetos\\Reply\\planets-backend\\src\\DataAccess\\obj\\",
+        "outputPath": "C:\\Projetos\\planets\\planets-backend\\src\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vinicius Tenomaro\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -20,13 +20,15 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/qyon-brazil/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Vinicius Tenomaro\\Documents\\Projetos\\Reply\\planets-backend\\src\\Model\\Models.csproj": {
-                "projectPath": "C:\\Users\\Vinicius Tenomaro\\Documents\\Projetos\\Reply\\planets-backend\\src\\Model\\Models.csproj"
+              "C:\\Projetos\\planets\\planets-backend\\src\\Model\\Models.csproj": {
+                "projectPath": "C:\\Projetos\\planets\\planets-backend\\src\\Model\\Models.csproj"
               }
             }
           }
@@ -39,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -70,18 +73,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Vinicius Tenomaro\\Documents\\Projetos\\Reply\\planets-backend\\src\\Model\\Models.csproj": {
+    "C:\\Projetos\\planets\\planets-backend\\src\\Model\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vinicius Tenomaro\\Documents\\Projetos\\Reply\\planets-backend\\src\\Model\\Models.csproj",
+        "projectUniqueName": "C:\\Projetos\\planets\\planets-backend\\src\\Model\\Models.csproj",
         "projectName": "TesteApi.Model",
-        "projectPath": "C:\\Users\\Vinicius Tenomaro\\Documents\\Projetos\\Reply\\planets-backend\\src\\Model\\Models.csproj",
+        "projectPath": "C:\\Projetos\\planets\\planets-backend\\src\\Model\\Models.csproj",
         "packagesPath": "C:\\Users\\Vinicius Tenomaro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vinicius Tenomaro\\Documents\\Projetos\\Reply\\planets-backend\\src\\Model\\obj\\",
+        "outputPath": "C:\\Projetos\\planets\\planets-backend\\src\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vinicius Tenomaro\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -90,10 +93,12 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/qyon-brazil/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -105,6 +110,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -120,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

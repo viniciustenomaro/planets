@@ -26,3 +26,13 @@ C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\Model\ob
 C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\Model\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
 C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\Model\obj\Debug\netcoreapp3.1\TesteApi.Model.dll
 C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\Model\obj\Debug\netcoreapp3.1\TesteApi.Model.pdb
+C:\Projetos\planets\planets-backend\src\Model\bin\Debug\netcoreapp3.1\TesteApi.Model.deps.json
+C:\Projetos\planets\planets-backend\src\Model\bin\Debug\netcoreapp3.1\TesteApi.Model.dll
+C:\Projetos\planets\planets-backend\src\Model\bin\Debug\netcoreapp3.1\TesteApi.Model.pdb
+C:\Projetos\planets\planets-backend\src\Model\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+C:\Projetos\planets\planets-backend\src\Model\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\planets\planets-backend\src\Model\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Projetos\planets\planets-backend\src\Model\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Projetos\planets\planets-backend\src\Model\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Projetos\planets\planets-backend\src\Model\obj\Debug\netcoreapp3.1\TesteApi.Model.dll
+C:\Projetos\planets\planets-backend\src\Model\obj\Debug\netcoreapp3.1\TesteApi.Model.pdb

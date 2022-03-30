@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XtLIe0xVabm6Anhy86BRXBpRQIibgUo6LXwT2o5yQTRbqVCi5abNgnQS9Lpm7xgqgSmRL12S2kmxtXuPURB+tg==",
+  "dgSpecHash": "U+AnbJX5Byzz/BYH1r02mJFvPV2kUu9z59dWi3bLqTN0Ny5Cvhzh1LsxzClyRnndLIGfOBosKiVzwKBZ0LloYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vinicius Tenomaro\\Documents\\Projetos\\Reply\\planets-backend\\src\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Projetos\\planets\\planets-backend\\src\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vinicius Tenomaro\\.nuget\\packages\\flurl\\3.0.2\\flurl.3.0.2.nupkg.sha512",
     "C:\\Users\\Vinicius Tenomaro\\.nuget\\packages\\flurl.http\\3.2.0\\flurl.http.3.2.0.nupkg.sha512",

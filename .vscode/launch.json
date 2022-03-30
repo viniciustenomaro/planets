@@ -6,9 +6,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/src/WebAPI/bin/Debug/netcoreapp3.1/TesteApi.WebAPI.dll",
+            "program": "${workspaceFolder}/planets-backend/src/WebAPI/bin/Debug/netcoreapp3.1/TesteApi.WebAPI.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/src/WebAPI",
+            "cwd": "${workspaceFolder}/planets-backend/src/WebAPI",
             "stopAtEntry": false,
             "serverReadyAction": {
                 "action": "openExternally",

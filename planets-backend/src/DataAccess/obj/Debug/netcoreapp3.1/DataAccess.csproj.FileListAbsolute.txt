@@ -44,3 +44,19 @@ C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAcce
 C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\TesteApi.DataAccess.dll
 C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\TesteApi.DataAccess.pdb
 C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+C:\Projetos\planets\planets-backend\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.deps.json
+C:\Projetos\planets\planets-backend\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.runtimeconfig.json
+C:\Projetos\planets\planets-backend\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.runtimeconfig.dev.json
+C:\Projetos\planets\planets-backend\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.dll
+C:\Projetos\planets\planets-backend\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.pdb
+C:\Projetos\planets\planets-backend\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.Model.dll
+C:\Projetos\planets\planets-backend\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.Model.pdb
+C:\Projetos\planets\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Projetos\planets\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\planets\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Projetos\planets\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Projetos\planets\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Projetos\planets\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Projetos\planets\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\TesteApi.DataAccess.dll
+C:\Projetos\planets\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\TesteApi.DataAccess.pdb
+C:\Projetos\planets\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
