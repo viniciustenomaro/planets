@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TesteApi.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="T:TesteApi.WebAPI.Controllers.HomeController">
+            <summary>
+            Home
+            </summary>
+        </member>
+        <member name="M:TesteApi.WebAPI.Controllers.HomeController.Index">
+            <summary>
+            Inicio
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:TesteApi.WebAPI.Controllers.LiveController">
+            <summary>
+            Live
+            </summary>
+        </member>
+        <member name="M:TesteApi.WebAPI.Controllers.LiveController.Get">
+            <summary>
+            Live
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.PlanetsController.GetAsync(System.Nullable{System.Int32},Services.Interfaces.IPlanetService)">
+            <summary>
+            Get all Planets.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

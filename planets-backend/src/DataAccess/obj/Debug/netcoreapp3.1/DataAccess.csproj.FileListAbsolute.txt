@@ -1,0 +1,46 @@
+C:\Users\p.henrique\Desktop\taxacambio-api\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.deps.json
+C:\Users\p.henrique\Desktop\taxacambio-api\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.runtimeconfig.json
+C:\Users\p.henrique\Desktop\taxacambio-api\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.runtimeconfig.dev.json
+C:\Users\p.henrique\Desktop\taxacambio-api\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.pdb
+C:\Users\p.henrique\Desktop\taxacambio-api\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.Model.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.Model.pdb
+C:\Users\p.henrique\Desktop\taxacambio-api\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\p.henrique\Desktop\taxacambio-api\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p.henrique\Desktop\taxacambio-api\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\p.henrique\Desktop\taxacambio-api\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\p.henrique\Desktop\taxacambio-api\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\p.henrique\Desktop\taxacambio-api\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\p.henrique\Desktop\taxacambio-api\src\DataAccess\obj\Debug\netcoreapp3.1\TesteApi.DataAccess.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\DataAccess\obj\Debug\netcoreapp3.1\TesteApi.DataAccess.pdb
+C:\Users\p.henrique\Desktop\taxacambio-api\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.deps.json
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.runtimeconfig.json
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.runtimeconfig.dev.json
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.pdb
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.Model.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.Model.pdb
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\DataAccess\obj\Debug\netcoreapp3.1\TesteApi.DataAccess.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\DataAccess\obj\Debug\netcoreapp3.1\TesteApi.DataAccess.pdb
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.deps.json
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.runtimeconfig.json
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.runtimeconfig.dev.json
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.pdb
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.Model.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\bin\Debug\netcoreapp3.1\TesteApi.Model.pdb
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\TesteApi.DataAccess.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\TesteApi.DataAccess.pdb
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache

@@ -1,0 +1,407 @@
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.exe
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Views\Home\Index.cshtml
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Docs\WebAPI.xml
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.deps.json
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.runtimeconfig.json
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.runtimeconfig.dev.json
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.pdb
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.xml
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.Views.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.Views.pdb
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\HealthChecks.SqlServer.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.AutoHistory.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.UnitOfWork.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Common.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Model.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Services.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.pdb
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Services.pdb
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Common.pdb
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Model.pdb
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorAssemblyInfo.cache
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorAssemblyInfo.cs
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\TesteApi.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\TesteApi.WebAPI.StaticWebAssets.xml
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\TesteApi.WebAPI.styles.css
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.TagHelpers.input.cache
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.TagHelpers.output.cache
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorCoreGenerate.cache
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cs
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.Views.pdb
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.pdb
+C:\Users\p.henrique\Desktop\taxacambio-api\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.exe
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Views\Home\Index.cshtml
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Docs\WebAPI.xml
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.deps.json
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.runtimeconfig.json
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.runtimeconfig.dev.json
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.pdb
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.xml
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.Views.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.Views.pdb
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\HealthChecks.SqlServer.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Flurl.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Flurl.Http.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.AutoHistory.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.UnitOfWork.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Common.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Model.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Services.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.pdb
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Services.pdb
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Common.pdb
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Model.pdb
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorAssemblyInfo.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorAssemblyInfo.cs
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.TagHelpers.input.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.TagHelpers.output.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorCoreGenerate.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cs
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.Views.pdb
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\TesteApi.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\TesteApi.WebAPI.StaticWebAssets.xml
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.pdb
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.exe
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Views\Home\Index.cshtml
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Docs\WebAPI.xml
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.deps.json
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.runtimeconfig.json
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.runtimeconfig.dev.json
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.pdb
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.xml
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.Views.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.WebAPI.Views.pdb
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\HealthChecks.SqlServer.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Flurl.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Flurl.Http.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.AutoHistory.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.UnitOfWork.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Common.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Model.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Services.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.DataAccess.pdb
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Services.pdb
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Common.pdb
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\bin\Debug\netcoreapp3.1\TesteApi.Model.pdb
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorAssemblyInfo.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorAssemblyInfo.cs
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.TagHelpers.input.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.TagHelpers.output.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorCoreGenerate.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cs
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.Views.pdb
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\TesteApi.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\TesteApi.WebAPI.StaticWebAssets.xml
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\TesteApi.WebAPI.pdb
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache

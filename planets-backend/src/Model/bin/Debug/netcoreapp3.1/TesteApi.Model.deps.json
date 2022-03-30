@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TesteApi.Model/1.0.0": {
+        "runtime": {
+          "TesteApi.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteApi.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

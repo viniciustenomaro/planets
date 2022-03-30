@@ -1,0 +1,28 @@
+C:\Users\p.henrique\Desktop\taxacambio-api\src\Common\bin\Debug\netcoreapp3.1\TesteApi.Common.deps.json
+C:\Users\p.henrique\Desktop\taxacambio-api\src\Common\bin\Debug\netcoreapp3.1\TesteApi.Common.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\Common\bin\Debug\netcoreapp3.1\TesteApi.Common.pdb
+C:\Users\p.henrique\Desktop\taxacambio-api\src\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\p.henrique\Desktop\taxacambio-api\src\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p.henrique\Desktop\taxacambio-api\src\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\p.henrique\Desktop\taxacambio-api\src\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\p.henrique\Desktop\taxacambio-api\src\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\p.henrique\Desktop\taxacambio-api\src\Common\obj\Debug\netcoreapp3.1\TesteApi.Common.dll
+C:\Users\p.henrique\Desktop\taxacambio-api\src\Common\obj\Debug\netcoreapp3.1\TesteApi.Common.pdb
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\Common\bin\Debug\netcoreapp3.1\TesteApi.Common.deps.json
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\Common\bin\Debug\netcoreapp3.1\TesteApi.Common.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\Common\bin\Debug\netcoreapp3.1\TesteApi.Common.pdb
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\Common\obj\Debug\netcoreapp3.1\TesteApi.Common.dll
+C:\Users\Vinicius Tenomaro\Downloads\Teste Reply\TesteApi\src\Common\obj\Debug\netcoreapp3.1\TesteApi.Common.pdb
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\Common\bin\Debug\netcoreapp3.1\TesteApi.Common.deps.json
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\Common\bin\Debug\netcoreapp3.1\TesteApi.Common.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\Common\bin\Debug\netcoreapp3.1\TesteApi.Common.pdb
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\Common\obj\Debug\netcoreapp3.1\TesteApi.Common.dll
+C:\Users\Vinicius Tenomaro\Documents\Projetos\Reply\planets-backend\src\Common\obj\Debug\netcoreapp3.1\TesteApi.Common.pdb
